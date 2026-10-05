@@ -14,4 +14,9 @@ function newFeatureAddB(){
     console.log('This is a new feat B is completed')
     
 }
+function newFeatureAddC(){
+    console.log('This is a new feat c is going on....')
+    
+    
+}
 
